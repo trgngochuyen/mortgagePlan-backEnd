@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/v1/customers
+Content-Type: application/json
+
+{
+  	"name": "Huyen",
+	"years":"10",
+	"interestRate": "1.1",
+	"loan": "100000"
+}
