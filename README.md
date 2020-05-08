@@ -23,3 +23,7 @@ Next, please change the working directory to `mortgage`, where there is pom.xml 
 ### Step3: Run
 Finally, go ahead and run the Spring Boot app:
 > `java -jar target/mortgageplan-0.0.1-SNAPSHOT.jar`
+
+The app will be accessible at port 8080 on your localhost.
+
+The app is deployed at [Heroku]('https://vast-ravine-89766.herokuapp.com/api/v1/customers')
