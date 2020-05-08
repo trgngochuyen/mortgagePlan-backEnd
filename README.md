@@ -5,7 +5,11 @@ This application is built with Spring Boot and Maven build tool.
 ## How to start the application on terminal
 
 In order to start the application, please proceed in the following 3 steps. If your local machine does not have `mvn` and `java` Java JDK installed, consider having them installed first.
+
+You can use these command lines to install them.
+
 > `sudo apt install maven` 
+
 > `sudo apt install default-jdk`
 
 ### Step 1: Clone this repository to your local 
