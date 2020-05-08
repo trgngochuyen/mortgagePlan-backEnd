@@ -1,2 +1,0 @@
-This is a dummy file.
-This is the second line of the dummy file.
