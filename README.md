@@ -26,4 +26,4 @@ Finally, go ahead and run the Spring Boot app:
 
 The app will be accessible at port 8080 on your localhost.
 
-The app is deployed at [Heroku]('https://vast-ravine-89766.herokuapp.com/api/v1/customers')
+The app is deployed at [Heroku](https://vast-ravine-89766.herokuapp.com/api/v1/customers)
